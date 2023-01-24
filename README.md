@@ -15,3 +15,5 @@
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+
+![Snake animation](https://github.com/gustavo-lsilva/gustavo-lsilva/blob/output/github-contribution-grid-snake.svg)
