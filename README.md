@@ -1,8 +1,8 @@
 ## Faaaala Dev, Gustavo aqui!
 
 <div >
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=gustavo-lsilva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-lsilva&layout=compact&langs_count=16&theme=react"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=gustavo-lsilva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-lsilva&layout=compact&langs_count=16&theme=react"/>
 </div>
 
 ## Codar é um modo de pensar
